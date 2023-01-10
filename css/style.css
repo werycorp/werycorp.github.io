@@ -1,0 +1,35 @@
+.middle-text {
+    text-align: center;
+}
+
+body{
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    background: blue url('https://instapik.ru/wp-content/uploads/2020/08/dark-background.jpg') no-repeat center center;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.paraqraf {
+    text-align: center;
+}
+.button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(58, 23, 58);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.git {
+    color: orangered;
+}
+.round {
+    border-radius: 100px; 
+    border: 3px solid rgb(58, 23, 58);
+    box-shadow: 0 0 7px #666; 
+   }
